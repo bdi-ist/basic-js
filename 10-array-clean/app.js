@@ -1,3 +1,4 @@
+// Функции высшего порядка
 
 const customFilter = (removeFn, inputArray) => {
     const result = [];
