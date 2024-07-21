@@ -19,6 +19,7 @@ function convertMoney(sum, currency) {
         const countRate_RUB_IN_EUR = 0.01046;
         return result_IN_RUB = sum * countRate_RUB_IN_EUR;
         console.log(result_IN_RUB);
+        asdasd
     }
     else return console.log(null);
 
